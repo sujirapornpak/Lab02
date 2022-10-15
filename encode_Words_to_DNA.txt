@@ -1,0 +1,14 @@
+Your input words:
+Wonderful
+
+Words encoded to binary, 72 bits in total, based on the ASCII format are shown below:
+01010111011011110110
+11100110010001100101
+01110010011001100111
+010101101100
+
+Binary sequence encoded to DNA sequence is shown below:
+TTTGTCGGTCGCTCTATCTT
+TGACTCTCTGTTTCGA
+
+The length of this DNA sequence is 36 bp. GC and AT content are 44.44444444444444% and 55.55555555555556%, respectively.

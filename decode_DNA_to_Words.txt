@@ -1,0 +1,12 @@
+Your input DNA sequence:
+TTTGTCGGTCGCTCTATCTTTGACTCTCTGTTTCGA
+The length of this DNA sequence is 36 bp. GC and AT content are 44.44444444444444% and 55.55555555555556%, respectively.
+
+DNA sequence decoded to binary, 72 bits in total, is shown below:
+01010111011011110110
+11100110010001100101
+01110010011001100111
+010101101100
+
+Binary sequence decoded to characters based on the ASCII format is shown below:
+Wonderful
