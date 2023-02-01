@@ -8,9 +8,9 @@ Luckily enough, I got inspired by these sci-fi stories that had brought me close
 ### Step 1: Encoding
 **Converting texts/characters into binary values, followed by encoding into DNA letters.**
 - 1.1 Construct a dictionary of 96 characters and 8-bits binary string (e.g., 00010111) as “keys” and “key-values”, respectively.
-- 1.2 Get input (words/sentence) from user. Both the binary string and DNA sequence are returned to user (an output .txt file).
+- 1.2 Get input (words/sentence) from user. As a result, both the binary string and DNA sequence are returned to user (an output .txt file).
 
 ### Step 2: Decoding 
 **Converting DNA sequence into binary values, followed by decoding into words/characters.**
 - 2.1 Construct a dictionary of reciprocal pairs of those in step 1 as “keys” and “key-values”.
-- 2.2 Get input (DNA sequence) from user. Both the binary string and words/characters are returned to user (an output .txt file).
+- 2.2 Get input (DNA sequence) from user. As a result, both the binary string and words/characters are returned to user (an output .txt file).
