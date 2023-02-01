@@ -5,7 +5,7 @@ DNA is a powerful way of capturing knowledge containing a set of orders to creat
 
 Luckily enough, I got inspired by these sci-fi stories that had brought me closer to DNA data storage concept entangled with the programing language. Thus, I’m very pleased to introduce my very first Python codes written for the purpose of encoding (writing) and decoding (reading) text data into a sequence of DNA letters. In doing so, the codes can be divided into two steps as follows:
 
-**Step 1: Encoding, by converting texts/characters into binary values, followed by encoding into DNA letters.**
+## Step 1: Encoding, by converting texts/characters into binary values, followed by encoding into DNA letters.
 - 1.1 Construct a dictionary of 96 characters and 8-bits binary string (e.g., 00010111) as “keys” and “key-values”, respectively.
 - 1.2 Get input (words/sentence) from user. Both the binary string and DNA sequence are returned to user (an output .txt file).
 
